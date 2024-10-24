@@ -11,19 +11,19 @@ On my leisure time, I enjoy rekindling her love of fine arts. Painting and activ
 ### **What I hope to learn**
 Through this class, I wish to be equipped with the knowledge on how to recognize design flaws and the best practices of tailoring visuals to a particular audience. From my summer internship at a consulting company, I've grown to realize the importance of good data visualization. It is often key to whether the client understands and is satisfied with final recommendations. 
 
-Whether I become a consultant after graduation or pursue a different career, the ability to express data in a way that's compelling and straightforward is essential to convincing the other party of your project or prosposal. 
+Whether I become a consultant after graduation or pursue a different career, the ability to express data in a way that's compelling and straightforward is essential to convincing the other party of your research, recommendations, or prosposal. I imagine adding data visualizations to any project will only enhance its quality.
 
 
 
 ### **Portfolio**
-## **Controlling Color**
+### **Controlling Color**
 
-## **Data Visualization Critique #1**
+### **Data Visualization Critique #1**
 
-## **Data Visualization #1**
+### **Data Visualization #1**
 
-## **Assignment 3&4: Critique by Design**
+### **Assignment 3&4: Critique by Design**
 
-## **Final Project**
+### **Final Project**
 
 
