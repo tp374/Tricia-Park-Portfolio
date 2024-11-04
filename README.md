@@ -25,15 +25,36 @@ Whether I become a consultant after graduation or pursue a different career, the
 
 
 ### **Visualizing Government Debt Using Tableau part 2**
+<!DOCTYPE html>
+<html lang="en">
 
-<script type='text/javascript'>                    
-  var divElement = document.getElementById('viz0000000000000');                    
-  var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js';                    
-  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
-</script>
+<head>
+    <meta charset="UTF-8">
+    <title>Basic Embedding via JS Initialization</title>
+
+    <script type="module">
+        import { TableauViz } from "https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.js";
+
+        // Initialization of the Tableau visualization via JavaScript. Learn more here:
+        // https://help.tableau.com/current/api/embedding_api/en-us/docs/embedding_api_configure.html
+        const viz = new TableauViz();
+
+        viz.src = "https://public.tableau.com/views/RegionalSampleWorkbook/Storms";
+        viz.toolbar = "hidden";
+
+        document.getElementById("tableauViz").appendChild(viz);
+    </script>
+
+</head>
+
+<body>
+    <div style="width:800px; height:700px;">
+        <!-- Placeholder for the Tableau visualization. -->
+        <div id="tableauViz"></div>
+    </div>
+</body>
+
+</html>
 
 
 ### **Data Visualization #1**
