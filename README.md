@@ -23,6 +23,8 @@ Whether I become a consultant after graduation or pursue a different career, the
 ### **Visualizing Government Debt Using Tableau**
 <img src="export-2024-11-04T01_39_16.983Z.png" width="600"/>
 
+<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/triciap-6f84dea7f5/views/Book1/GovernmentDebt' width='1432' height='734' hide-tabs toolbar='bottom' ></tableau-viz>
+
 ### **Data Visualization #1**
 
 ### **Assignment 3&4: Critique by Design**
