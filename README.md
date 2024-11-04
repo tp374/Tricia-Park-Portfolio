@@ -26,10 +26,20 @@ Whether I become a consultant after graduation or pursue a different career, the
 
 ### **Visualizing Government Debt Using Tableau part 2**
 
+<div class='tableauPlaceholder' id='viz1730756964186' style='position: relative'><noscript><a href='#'><img alt='Government Debt ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17307568320840&#47;GovernmentDebt&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book1_17307568320840&#47;GovernmentDebt' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17307568320840&#47;GovernmentDebt&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>  
+
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1730756964186');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';             
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
 
 ### **Visualizing Government Debt Using Tableau part 3**
 
-<script type='module' src='https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js'></script><tableau-viz id='tableau-viz' src='https://us-east-1.online.tableau.com/t/triciap-6f84dea7f5/views/Book2/GovernmentDebt2' width='1432' height='734' hide-tabs toolbar='bottom' ></tableau-viz>
+<div class='tableauPlaceholder' id='viz1730757086171' style='position: relative'><noscript><a href='#'><img alt='Increasing Government Debt after 2008 Financial Crisis ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book2_17307570746610&#47;GovernmentDebt2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book2_17307570746610&#47;GovernmentDebt2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book2_17307570746610&#47;GovernmentDebt2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1730757086171');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
 ### **Data Visualization #1**
 
