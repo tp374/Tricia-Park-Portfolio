@@ -54,6 +54,18 @@ Whether I become a consultant after graduation or pursue a different career, the
 
 ### **Data Visualization #1**
 
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1730757086171');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+
+
+
 ### **Assignment 3&4: Critique by Design**
 
 ### **Final Project**
