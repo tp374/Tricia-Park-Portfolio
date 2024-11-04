@@ -21,7 +21,7 @@ Whether I become a consultant after graduation or pursue a different career, the
 ### **Data Visualization Critique #1**
 
 ### **Visualizing Government Debt Using Tableau**
-<img src="export-2024-11-04T01_39_16.983Z.png" width="200"/>
+<img src="export-2024-11-04T01_39_16.983Z.png" width="600"/>
 
 ### **Data Visualization #1**
 
