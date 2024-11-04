@@ -20,6 +20,10 @@ Whether I become a consultant after graduation or pursue a different career, the
 
 ### **Data Visualization Critique #1**
 
+### **Visualizing Government Debt Using Tableau**
+
+
+
 ### **Data Visualization #1**
 
 ### **Assignment 3&4: Critique by Design**
