@@ -25,6 +25,11 @@ Whether I become a consultant after graduation or pursue a different career, the
 
 
 ### **Visualizing Government Debt Using Tableau part 2**
+<div id="tableauViz"></div>
+import {
+  TableauViz,
+  TableauEventType,
+} from 'https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js';
 
 <script type="module" src="https://us-east-1.online.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
 
