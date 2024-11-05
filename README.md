@@ -50,6 +50,9 @@ Whether I become a consultant after graduation or pursue a different career, the
   vizElement.parentNode.insertBefore(scriptElement, vizElement);    
 </script>  
 
+When comparing the efficiency of a heatmap and a bar chart in visualizing data, it largely comes down to the amount of data one wants to include. The data used for the second and third visualizations is taken from the Organization for Economic Co-operation and Development (OECD) and includes the yearly general government debts of 35 countries within a 1995-2019 time frame. The first visualization encompasses most of this data, including the debts of all countries with the exception of Columbia from 1995 to 2019. A heat map allows the inclusion of a large amount of data and is ideal for portraying an overall trend or pattern.
+
+With this contrast of warm orange and blue, readers are able to quickly identify which countries have higher government debts and see a trend of most countries debts increasing by the year. On the other hand, the third visualization focuses on a subset of the data. Looking at the debts of the USA only, from 2006 to 2016, I chose a bar chart to represent this data for it contains fewer variables. A bar chart allows for each individual value to stand out on its own, and I was able to easily bring attention to the the 2008 government debt for the chart to portray the 2008 financial crisis' impact on U.S. debt. I used gray to color all the bars with exception of the 2008 bar being a bright red. 
 
 
 ### **Data Visualization #1**
