@@ -1,3 +1,10 @@
+---
+title: Assignment 3&4
+layout: template
+filename: NAME OF THIS Assignment 3&4.md FILE HERE
+--- 
+
+
 ### **Portfolio**
 This is my public portfolio for Telling Stories with Data at CMU!  
 
