@@ -1,8 +1,3 @@
----
-title: Assignment 3&4
-layout: template
-filename: NAME OF THIS Assignment 3&4.md FILE HERE
---- 
 
 
 ### **Portfolio**
