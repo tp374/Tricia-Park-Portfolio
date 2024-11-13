@@ -82,13 +82,13 @@ I thought this method of data visualization evaluation was very successful. In p
 
 Preliminary design:
 
-<img src="Screenshot 2024-11-12 191900.png" width="600"/>
+<img src="Screenshot 2024-11-12 191900.png" width="1000"/>
 
 
 
 Preliminary design 2:
 
-<img src="Screenshot 2024-11-12 192016.png" width="600"/>
+<img src="Screenshot 2024-11-12 192016.png" width="1000"/>
 
 
 **Step 4: Interviews for Design Feedback:**
