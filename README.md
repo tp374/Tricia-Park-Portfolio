@@ -1,9 +1,4 @@
 
-
-    <li class="masthead__menu-item">
-          <a href="xxx.github.io/research.html">Research</a>
-        </li>
-
 ### **Portfolio**
 This is my public portfolio for Telling Stories with Data at CMU!  
 
@@ -67,6 +62,68 @@ With this contrast of warm orange and blue, readers are able to quickly identify
 
 
 ### **Assignment 3&4: Critique by Design**
+
+
+### **Step 1: Choose Data Visualization**
+
+Original Data Visualization: https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform 
+
+I chose this particualar data visualization because it made realize my biases and misunderstandings of social media. The data in this graph that surprised me in particular were the popularity of Facebook and Youtube. As someone who is in my early twenties, I've mistakenly believed that platforms such as Instagram or Tiktok would be used the most of US adults. However, I failed to account for those who are older than me. I felt that this graph was quite informative and would be very impactful for those who use multiple social media platforms such as myself. Yet, despite my interest in its data, I felt that aspects such as color, layout, and text all contributed to my confusion when reading the graph. I felt that as someone who is quite familiar with the social media platforms listed, the colors and layout of the graph were too complicated or did not align with the actual platforms themselves. 
+
+### **Step 2: Critique the Data Visualization**
+
+What stood out to me first was the vertical grey line near the 2023 year mark, the large amount of points, and arbitrary colors on the graph. I found the grey threshold line to be effective, indicating a change in survey mode while also not stopping the viewer's focus when studying the lines. However, I found the points on the graph to be distracting, shifting my attention away from the trajectory of the lines to trying to discern their purpose. There is no context given to clarify what exactly they are marking or why they are needed. Moreover, the viewing the colors aroused confusion in me as they appeared to be arbitrarily assigned. Some of them do not align with their respective social media platform. While Facebook is depicted as blue, WhatsApp is depicted as a dark grey. If I were to change at least one thing about this visualization, I would remove the points as they seemed unnecessary and not useful to the viewer.
+
+The primary audience for this tool are those who use multiple social media platforms. The visualization is partially effective for reaching said audience since it encompasses a wide breath of social media platforms and immediately informs the viewer which platforms are popular and not so popular: the wide gap between Youtube and Facebook with the rest of the platforms. On the other hand, the design is not very intuitive the more you study the graph. As someone who would be part of the target audience, the colors did not match the associations I have with each social media. Moreover, with further observation, the order of the key does not align the order of the lines (Nextdoor and Bereal).
+
+I thought this method of data visualization evaluation was very successful. In particular, evaluating the graph starting out with usefulness brought out glaring details very quickly such as the points. The measures not being fully captured here are usefulness, perceptibility, and intuitiveness. My further recommendations for this visualization is to change the color key and layout of the key. I noticed that for the social media platforms with low trajectories are mostly neutral tones, resulting in a low visual contrast near the bottom of the graph. I would change the colors to represent the platforms more accurately and make sure to have a balance of dark and light vivid tones. Furthermore, currently, the key appears too compact with visual information, making it difficult to match the lines with their respective social media. I would split the key into two parts, moving Youtube and Facebook upwards to be level with their lines, while moving the rest of the key downwards. Moreover, I would rearrange the platforms in the key to match the order of their lines. 
+
+### **Step 3: Sketch out a Solution**
+
+
+
+
+At a minimum, this portion of your portfolio should all the items mentioned in the instructions (a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.). Make sure to set up a separate page for this assignment and include navigation to and from the page from your main portfolio. 
+
+
+ written summary and analysis using Markdown, posted to your portfolio page. 
+
+2) document your progress for each step
+
+
+
+**Step 4: Interviews for Design Feedback:**
+
+Interviewee: Student mid 20's
+
+Preliminary design 
+- What target audience do you think this is directed at?
+  "Those in their 20s to 30s."
+- Can you describe to me what this is telling you?
+  "These line correspond to social media platforms. I'm seeing the trajectory of their popularity."
+- Is there anything you find surprising or confusing?
+  "I did not think Facebook would be this high and Tiktok so low. These results are pretty suprising to me."
+- Is there anything you would change or do differently?
+  "There's not much I would change, but maybe make the data points for Nextdoor and BeReal more noticeable? I barely saw where they were."
+- Is there anything you particularly like the most?
+  "I really like the y and x axis, simple and to the point. I like how all the years a listed so I can look at a social media's popularity at specific points in time."
+
+Interviewee: Student mid 20's
+
+Preliminary design 2
+- What target audience do you think this is directed at?
+  "Those who use social media a lot, maybe even familiar with multiple of these on here"
+- Can you describe to me what this is telling you?
+  "It's telling me how many americans are using which social media, so basically showing you trends and the popularity of each platform over the years."
+- Is there anything you find surprising or confusing?
+  "I didn't know Facebook was still used so heavily! It must be because of my age bracket too, I mostly use Instagarm and Tiktok."
+  "Nothing is too confusing but I wonder why the timeline extends to 2024 when the data seems to end at around 2023."
+- Is there anything you would change or do differently?
+  "Maybe space out the lines a bit if that's possible? Since there are so many social media platforms represented here at the bottom, it seems a bit chaotic."
+- Is there anything you particularly like the most?
+  "I noticed how the colors of each line corresponds to the app designs. I love that little touch, and made it easier to recognize them too."
+
+**Step 5: Final Data Visualization**
 
 ### **Final Project**
 
