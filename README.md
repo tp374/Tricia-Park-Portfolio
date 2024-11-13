@@ -104,9 +104,11 @@ Preliminary design
 - Is there anything you find surprising or confusing?
   "I did not think Facebook would be this high and Tiktok so low. These results are pretty suprising to me."
 - Is there anything you would change or do differently?
-  "There's not much I would change, but maybe make the data points for Nextdoor and BeReal more noticeable? I barely saw where they were."
+  "There's not much I would change, but maybe make the data points for Nextdoor and BeReal more noticeable? I barely saw where they were. Also, the legend could be cleaned up a bit."
 - Is there anything you particularly like the most?
   "I really like the y and x axis, simple and to the point. I like how all the years a listed so I can look at a social media's popularity at specific points in time."
+
+
 
 Interviewee: Student mid 20's
 
@@ -116,14 +118,23 @@ Preliminary design 2
 - Can you describe to me what this is telling you?
   "It's telling me how many americans are using which social media, so basically showing you trends and the popularity of each platform over the years."
 - Is there anything you find surprising or confusing?
-  "I didn't know Facebook was still used so heavily! It must be because of my age bracket too, I mostly use Instagarm and Tiktok."
+  "I didn't know Facebook was still used so heavily! It must be because of my age bracket too, I mostly use Instagram and Tiktok."
   "Nothing is too confusing but I wonder why the timeline extends to 2024 when the data seems to end at around 2023."
 - Is there anything you would change or do differently?
   "Maybe space out the lines a bit if that's possible? Since there are so many social media platforms represented here at the bottom, it seems a bit chaotic."
 - Is there anything you particularly like the most?
   "I noticed how the colors of each line corresponds to the app designs. I love that little touch, and made it easier to recognize them too."
 
+Using Tableau, I was able to implement some of my recommendations from Step 2. I changed the colors of the social media platforms to align with their app colors, which fortunately created greater contrast and was more visually appealing to the viewer. Moreover, I rearranged the social media platforms in the key to reflect the order of the lines. From the initial feedback on my first design, I found that the graph is easily read, but the points for Nextdoor and BeReal were barely noticeable and that the legend may feel overwhelming to study for the viewer. Therefore I should work out a solution that addresses the two issues. In my initial critique of the original data visualization, I proposed that I split the key into two and level them to their corresponding lines. However, in this situation, I beleive I can label the lines directly, which means I would also be labeling the data points for Nextdoor and BeReal. Through this solution, I would be eliminating the need for a color key and allow the reader to find the data points fairly easily through the labels. 
+
+With my second design, I eliminated the need for a color key as I was labeling each line and data point directly. I also added more information in the caption to explain why some lines start later than others in case viewers are confused at this detail. Moreover, I changed the title of the graph to include more context. The feedback I garnered from this design was more positive and the interviewee did notice my intention behind the colors, aligning with the actual color of the apps. However, there seems to confusion as to why my timeline extends to 2024 and that the bottom half of the graph still appears chaotic. Therefore, I should look for ways to space out the lines more and shorten the timeline to halfway through 2023.
+
 **Step 5: Final Data Visualization**
+
+
+Tableau ****
+
+
 
 ### **Final Project**
 
