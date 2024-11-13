@@ -80,16 +80,15 @@ I thought this method of data visualization evaluation was very successful. In p
 
 ### **Step 3: Sketch out a Solution**
 
+Preliminary design:
+
+<img src="Screenshot 2024-11-12 191900.png" width="600"/>
 
 
 
-At a minimum, this portion of your portfolio should all the items mentioned in the instructions (a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.). Make sure to set up a separate page for this assignment and include navigation to and from the page from your main portfolio. 
+Preliminary design 2:
 
-
- written summary and analysis using Markdown, posted to your portfolio page. 
-
-2) document your progress for each step
-
+<img src="Screenshot 2024-11-12 192016.png" width="600"/>
 
 
 **Step 4: Interviews for Design Feedback:**
