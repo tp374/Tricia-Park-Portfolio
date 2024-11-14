@@ -3,7 +3,15 @@
 
 ### **Step 1: Choose Data Visualization**
 
-Original Data Visualization: |[link] (https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform)|
+Original Data Visualization: 
+<a href="https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform"> Something </a>
+<!-- or -->
+<a href="https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform"> Something </a>
+
+
+
+
+|[link] (https://www.pewresearch.org/internet/fact-sheet/social-media/?tabItem=3345cffa-94a6-4e74-9272-70dee1e0e213#who-uses-each-social-media-platform)|
 
 I chose this particualar data visualization because it made realize my biases and misunderstandings of social media. The data in this graph that surprised me in particular were the popularity of Facebook and Youtube. As someone who is in my early twenties, I've mistakenly believed that platforms such as Instagram or Tiktok would be used the most of US adults. However, I failed to account for those who are older than me. I felt that this graph was quite informative and would be very impactful for those who use multiple social media platforms such as myself. Yet, despite my interest in its data, I felt that aspects such as color, layout, and text all contributed to my confusion when reading the graph. I felt that as someone who is quite familiar with the social media platforms listed, the colors and layout of the graph were too complicated or did not align with the actual platforms themselves. 
 
