@@ -29,7 +29,7 @@ Preliminary design 2:
 <img src="Screenshot 2024-11-12 192016.png" width="1000"/>
 
 
-**Step 4: Interviews for Design Feedback:**
+### **Step 4: Interviews for Design Feedback:**
 
 Interviewee: Student mid 20's
 
@@ -63,7 +63,7 @@ Preliminary design 2
   "I noticed how the colors of each line corresponds to the app designs. I love that little touch, and made it easier to recognize them too."
 
 
-**Step 5: Final Data Visualization**
+### **Step 5: Final Data Visualization**
 
 <div class='tableauPlaceholder' id='viz1731492550512' style='position: relative'><noscript><a href='#'><img alt='% of U.S. Adults use this Social Media ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book5_17314925239190&#47;Sheet14&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Book5_17314925239190&#47;Sheet14' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book5_17314925239190&#47;Sheet14&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>             
 
