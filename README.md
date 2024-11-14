@@ -1,4 +1,4 @@
- | [Assignment 3&4] (Assignment 3&4)| 
+| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) |
 
 
 ### **Portfolio**
