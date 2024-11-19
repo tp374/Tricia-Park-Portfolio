@@ -38,6 +38,7 @@ The first data source I will be using is workforce AI research from Organisation
 
 The second data source is from American Psychology Association or APA. Their research focuses more on the psychological aspect of AI’s advancement and further involvement. Their study looks into the emotional responses from people as well as how AI impacts their mental well-being. While the first data source looks more at AI’s direct effect on work efficiency, APA targets our sentiments towards the technology. With its survey data, I will compare its findings with OECD’s findings when it comes to attitudes towards AI in the workplace. From thereon, I try to discern if the questions and other factors posed had any influence on the results.
 
+The third data source I will be using is from a survey named Worldwide Semiannual Artificial Intelligence Tracker from the International Data Corporation (IDC). The data centers on AI market revenues in 2020 and forecasted values in 2021 to 2023. I will using this information to open up my story and discuss the significance adn growth of AI in the market place. 
 
 <a href="https://www.oecd.org/en/about/projects/aisurveysofemployersandworkers.html"> https://www.oecd.org/en/about/projects/aisurveysofemployersandworkers.html </a>
 
