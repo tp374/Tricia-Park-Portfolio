@@ -27,7 +27,7 @@ Conflict: the integration of AI in the workplace has brought upon greater effici
 
 Resolution: highlighting the limitations of AI and spreading more awareness on this topic.
 
-- Using mainly text and a stacked bar graph, I will show how employees and employers view human skills as being more important with the growth of AI (OECD)
+- Using mainly text and a bar graph, I will show how cost is the largest barrier to AI implementation.
 
 ### **Sketches:**
 
