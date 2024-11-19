@@ -7,7 +7,7 @@ Our Sentiments vs Reality of AI's Impact: How Worried Should We Be?
 
 The topic of AI is widely contested within our current times. Generative AI in particular has become widespread in many sectors. In my particular case, as someone who is an artist and has artist peers, the topic of AI implementation in the workplace is continuously debated due to its danger towards illustrators. Therefore, with my existing interest in AI’s influences, I wish to delve further into how this technology is adopted in other sectors: manufacturing and finance.
 
-Therefore, my final project will center on comparing perceptions of AI’s impact on jobs with the realities of its implementation in the workplace. Are people’s worries warranted? Are people’s careers at risk with the adoption of AI? Using two main data sources, one from OECD and the other from APA, I will be focusing on both this trend’s effect on our mental health as well as the efficiency of workplaces. 
+Therefore, my final project will center on comparing perceptions of AI’s impact on jobs with the realities of its implementation in the workplace. Are people’s worries warranted? Are people’s careers at risk with the adoption of AI? Using three data sources, one from OECD, one from APA, and one from Statistica, I will be focusing on both this trend’s effect on our mental health as well as the efficiency of workplaces. 
 
 
 ### **Outline:**
