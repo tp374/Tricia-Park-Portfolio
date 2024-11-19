@@ -36,16 +36,13 @@ Resolution: highlighting the limitations of AI and spreading more awareness on t
 
 The first data source I will be using is workforce AI research from Organisation for Economic Co-operation and Development, otherwise known as OECD. With the goal of recording workers and employers' perceptions on the impact of AI in their workplaces, 2,053 firms and 5,334 workers from 7 different countries were surveyed.Two surveys were conducted, one focused on the employers and the other for the worker’s. I plan to use their data to focus on which individuals benefit and which don’t benefit from the growth of AI in the workplace, revealing not only the differences in management vs employee but how demographics play a part.
 
-The second data source is from American Psychology Association or APA. Their research focuses more on the psychological aspect of AI’s advancement and further involvement. Their study looks into the emotional responses from people as well as how AI impacts their mental well-being. While the first data source looks more at AI’s direct effect on work efficiency, APA targets our sentiments towards the technology. With its survey data, I will compare its findings with OECD’s findings when it comes to attitudes towards AI in the workplace. From thereon, I try to discern if the questions and other factors posed had any influence on the results.
-
-The third data source I will be using is from a survey named Worldwide Semiannual Artificial Intelligence Tracker from the International Data Corporation (IDC). The data centers on AI market revenues in 2020 and forecasted values in 2021 to 2023. I will using this information to open up my story and discuss the significance adn growth of AI in the market place. 
+The second data source is from American Psychology Association or APA. Their research focuses more on the psychological aspect of AI’s advancement and further involvement. Their study looks into the emotional responses from people as well as how AI impacts their mental well-being. While the first data source looks more at AI’s direct effect on work efficiency, APA targets our sentiments towards the technology. With its survey data, I will compare its findings with OECD’s findings when it comes to attitudes towards AI in the workplace. From thereon, I try to discern if the questions and other factors posed had any influence on the results. Moreover, the third data source I will be using is AI Market data from Statistica Market Insights. I will using this information to open up my story and discuss the significance and growth of AI in the market place.
 
 <a href="https://www.oecd.org/en/about/projects/aisurveysofemployersandworkers.html"> https://www.oecd.org/en/about/projects/aisurveysofemployersandworkers.html </a>
 
 <a href="https://www.apa.org/pubs/reports/work-in-america/2023-work-america-ai-monitoring"> https://www.apa.org/pubs/reports/work-in-america/2023-work-america-ai-monitoring </a>
 
-
-<a href= "https://www.statista.com/statistics/694638/worldwide-cognitive-and-artificial-intelligence-revenues/"> https://www.statista.com/statistics/694638/worldwide-cognitive-and-artificial-intelligence-revenues/ </a>
+<a href= "https://www.statista.com/outlook/tmo/artificial-intelligence/worldwide#market-size"> https://www.statista.com/outlook/tmo/artificial-intelligence/worldwide#market-size </a>
 
 
 ### **Method & Medium:**
