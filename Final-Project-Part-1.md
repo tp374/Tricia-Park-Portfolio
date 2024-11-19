@@ -1,6 +1,6 @@
 ### **Description:**
 
-Our Sentiments vs Reality on the Impact of AI: How worried should we be?
+Our Sentiments vs Reality of AI's Impact: How Worried Should We Be?
 
 The topic of AI is widely contested within our current times. Generative AI in particular has become widespread in many sectors. In my particular case, as someone who is an artist and has artist peers, the topic of AI implementation in the workplace is continuously debated due to its danger towards illustrators. Therefore, with my existing interest in AI’s influences, I wish to delve further into how this technology is adopted in other sectors. 
 
