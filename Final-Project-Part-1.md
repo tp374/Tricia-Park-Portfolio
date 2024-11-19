@@ -15,7 +15,7 @@ Setup: AI has had rapid growth within the past few years, impacting our workforc
 
 Statement:  With growing worries over AI’s impact on the workplace, how do our sentiments measure up to the reality of its influence? How worried should we be about our future workplace?
 
-- include slide detailing AI’s growth (text)
+- include slide detailing AI’s growth (text and line graph)
 
 Conflict: the integration of AI in the workplace has brought upon greater efficiency but simultaneously certain workers risk losing their jobs
 
