@@ -31,7 +31,7 @@ Resolution: highlighting the limitations of AI and spreading more awareness on t
 
 ### **Sketches:**
 
-<img src="Notes_241119_123336_0.png" width="600"/>
+<img src="Notes_241119_141356_0.png" width="600"/>
 
 ### **Data:**
 
