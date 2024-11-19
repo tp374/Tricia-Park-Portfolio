@@ -12,14 +12,22 @@ Therefore, my final project will center on comparing perceptions of AI’s impac
 
 ### **Outline:**
 Setup: AI has had rapid growth within the past few years, impacting our workforce more and more by the day
+
 Statement:  With growing worries over AI’s impact on the workplace, how do our sentiments measure up to the reality of its influence? How worried should we be about our future workplace?
-include slide detailing AI’s growth (text)
+
+- include slide detailing AI’s growth (text)
+
 Conflict: the integration of AI in the workplace has brought upon greater efficiency but simultaneously certain workers risk losing their jobs
-Slides on how AI integration leads to more poor mental health and survey results on negative feelings or reactions to this trend (APA) pie charts, bar graphs
-Slides on the positive effects of AI integration: increase in efficiency (OECD) 
-Highlight what types of individuals benefit and which do not
+
+- Slides on how AI integration leads to more poor mental health and survey results on negative feelings or reactions to this trend (APA) pie charts, bar graphs
+
+- Slides on the positive effects of AI integration: increase in efficiency (OECD) 
+
+- Highlight what types of individuals benefit and which do not
+
 Resolution: highlighting the limitations of AI and spreading more awareness on this topic.
-Using mainly text and a stacked bar graph, I will show how employees and employers view human skills as being more important with the growth of AI (OECD)
+
+- Using mainly text and a stacked bar graph, I will show how employees and employers view human skills as being more important with the growth of AI (OECD)
 
 ### **Sketches:**
 
