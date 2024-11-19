@@ -44,6 +44,9 @@ The second data source is from American Psychology Association or APA. Their res
 <a href="https://www.apa.org/pubs/reports/work-in-america/2023-work-america-ai-monitoring"> https://www.apa.org/pubs/reports/work-in-america/2023-work-america-ai-monitoring </a>
 
 
+<a href= "https://www.statista.com/statistics/694638/worldwide-cognitive-and-artificial-intelligence-revenues/"> https://www.statista.com/statistics/694638/worldwide-cognitive-and-artificial-intelligence-revenues/ </a>
+
+
 ### **Method & Medium:**
 
 For this final project, I will use both Shorthand and Tableau. Using Tableau, I will form my data visualizations from the public survey data mentioned above. OECD already has a .csv file available, and I intend to convert the data from the APA study into a .csv file to better work with Tableau.  On the other hand, Shorthand will serve as a basis for tying in my entire story in one cohesive source. For other visuals such as photos, I will likely use free adobe stock photos.
