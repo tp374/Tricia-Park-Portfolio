@@ -18,6 +18,9 @@ Highlight what types of individuals benefit and which do not
 Resolution: highlighting the limitations of AI and spreading more awareness on this topic.
 Using mainly text and a stacked bar graph, I will show how employees and employers view human skills as being more important with the growth of AI (OECD)
 
+### **Sketches:**
+
+
 ### **Data:**
 
 The first data source I will be using is workforce AI research from Organisation for Economic Co-operation and Development, otherwise known as OECD. With the goal of recording workers and employers' perceptions on the impact of AI in their workplaces, 2,053 firms and 5,334 workers from 7 different countries were surveyed.Two surveys were conducted, one focused on the employers and the other for the worker’s. I plan to use their data to focus on which individuals benefit and which don’t benefit from the growth of AI in the workplace, revealing not only the differences in management vs employee but how demographics play a part.
