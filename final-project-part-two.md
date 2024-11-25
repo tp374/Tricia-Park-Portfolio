@@ -8,9 +8,15 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+> Include your approach to identifying representative individuals, and who you hope to reach with your story.
+>  Due to the rapid development and proliferation of AI technology in many sectors, my target audience is the general adult public, particularly those who are english speaking
+> my peer, American, 
 
-Text here!
+> target audience is the general adult public, particularly those are english speaking
+> As AI is a global and the studies used, bringing in data from multiple countries, 
+> target audience are younger people, particularly those in college who are deciding what career path to take. The rapid development and proliferation of AI technology in many sectors
+
+
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
@@ -56,7 +62,7 @@ Text here!
 Text here!
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+
 
 Text here!
 
