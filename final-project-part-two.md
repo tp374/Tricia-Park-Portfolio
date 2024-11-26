@@ -28,7 +28,7 @@ Conflict: the integration of AI in the workplace has brought upon greater effici
 Resolution: highlighting the limitations of AI and spreading more awareness on this topic.
 
 - Using mainly text and a bar graph, I will show how cost is the largest barrier to AI implementation.
-- Call to Action: Become informed and share your knowledge with others
+- Call to Action: Become informed and share your knowledge with others. Learn how much your sector or your career specifically will be impacted by AI to better prepare for the future.
 - Not only can you share this website page, but look into AI regulations, cost, and potential of Generative AI
 - include a button that links to articles on AI regulation and the potential of Generative AI
 
