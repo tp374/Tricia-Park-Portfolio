@@ -44,13 +44,13 @@ Seeing as how AI is a global phenomenon and the studies used bring in data from 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
 
-Text here!
+
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|The visuals are all easily discernable as relating to the topic of AI Impact    |How relevant do you think the data vizualizations are to the rest of the page's context? Were there any parts of the content that confused you?                   |
+|Viewers understand the importance of learning about AI's Impact      |How likely are you to share this page with our peers or family? Did you identify a call to action? How did this page make you feel?               |
+|The data visualizations were easy to understand and enough context was given       |Is there anything that confused you when it came to the data visualizations? Is there anything that stood out to you? Or is there anything you would change?      |
 
 
 Text here!
