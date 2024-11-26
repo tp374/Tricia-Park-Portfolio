@@ -87,6 +87,7 @@ Text here!
 # Moodboards / personas
 
 As my topic is on AI (Artificial Intellgience), my moodboard consists of colors and images the common person would think of, which are cold blue hues, circuit boards, and a web pattern.
+
 <img src="Untitled design.png" width="600"/>
 
 
