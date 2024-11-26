@@ -61,7 +61,7 @@ Seeing as how AI is a global phenomenon and the studies used bring in data from 
 
 
 
-Text here!
+
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
