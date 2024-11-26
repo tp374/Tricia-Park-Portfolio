@@ -8,19 +8,29 @@ Setup: AI has had rapid growth within the past few years, impacting our workforc
 
 Statement:  With growing worries over AI’s impact on the workplace, how do our sentiments measure up to the reality of its influence? How worried should we be about our future workplace?
 
-- include slide detailing AI’s growth (text and line graphs)
+- include slide detailing AI’s growth: line graph
+- accompanied with short paragraph summarizing AI's signifigance and growth worldwide
 
 Conflict: the integration of AI in the workplace has brought upon greater efficiency but simultaneously certain workers risk losing their jobs
 
-- Slides on how AI integration leads to more poor mental health and survey results on negative feelings or reactions to this trend (APA) pie charts, bar graphs
+-  Slide on the positive effects of AI integration: increase in efficiency (OECD)
+-  include pie chart showing you the % of how much AI improved work
+  
+-  Slide on how AI integration leads to more poor mental health and survey results on negative feelings or reactions to this trend (APA) pie charts, bar graphs
+-  Stacked bar graph showing what proportion of workers are worried about AI
 
-- Slides on the positive effects of AI integration: increase in efficiency (OECD) 
+-  Slide on showing how much AI may shrink workforces
+-  Include a bar chart on the percentage of employers that believe AI adoption increased or decreased employment
 
-- Highlight what types of individuals benefit and which do not. Who will lose their jobs due to AI efficiency and who will not?
+- Highlight what types of individuals benefit and which do not.
+- Include horizontal bar chart that shows which demographics are more likely to be AI users. 
 
 Resolution: highlighting the limitations of AI and spreading more awareness on this topic.
 
 - Using mainly text and a bar graph, I will show how cost is the largest barrier to AI implementation.
+- Call to Action: Become informed and share your knowledge with others
+- Not only can you share this website page, but look into AI regulations, cost, and potential of Generative AI
+- include a button that links to articles on AI regulation and the potential of Generative AI
 
 # User research 
 
@@ -72,10 +82,10 @@ Text here!
 
 > ...include any final thoughts you have here. 
 
-Text here!
+
 
 # Moodboards / personas
 
+As my topic is on AI (Artificial Intellgience), my moodboard consists of colors and images the common person would think of, which are cold blue hues, circuit boards, and a web pattern.
 
-Text here!
 
