@@ -55,6 +55,8 @@ Seeing as how AI is a global phenomenon and the studies used bring in data from 
 |Viewers understand the importance of learning about AI's Impact      |How did this page make you feel?               |
 |The data visualizations were easy to understand and enough context was given       |Is there anything that confused you when it came to the data visualizations?|
 |The data visualizations were easy to understand and enough context was given       |Is there anything that stood out to you? Or is there anything you would change?      |
+|How easy and engaging was the navigation of this page?      |How long did it take you to digest all the information?|
+|How easy and engaging was the navigation of this page?      |What were some difficulties or annoyances you had with the navigation or format of the page?|
 
 
 
