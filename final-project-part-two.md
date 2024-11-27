@@ -50,7 +50,7 @@ Seeing as how AI is a global phenomenon and the studies used bring in data from 
 |------|------------------|
 |The visuals are all easily discernable as relating to the topic of AI Impact    |How relevant do you think the data vizualizations are to the rest of the page's context?  |
 |The visuals are all easily discernable as relating to the topic of AI Impact    |Were there any parts of the content that confused you?                   |
-|Viewers understand the importance of learning about AI's Impact      |How likely are you to share this page with our peers or family?    |
+|Viewers understand the importance of learning about AI's Impact      |How likely are you to share this page with your peers or family?    |
 |Viewers understand the importance of learning about AI's Impact      |Did you identify a call to action?          |
 |Viewers understand the importance of learning about AI's Impact      |How did this page make you feel?               |
 |The data visualizations were easy to understand and enough context was given       |Is there anything that confused you when it came to the data visualizations?|
@@ -64,15 +64,18 @@ Seeing as how AI is a global phenomenon and the studies used bring in data from 
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|How relevant do you think the data vizualizations are to the rest of the page's context?| Insightful feedback | They believed it aligned with what they expected from the corresponding text.| They thought the visuals were very relevant and love how it expands on the factors impacting AI's effect. |
+|Were there any parts of the content that confused you? | The information from the demographic bar chart seems to highlight those who will be negatively impacted but the text focuses on those who will benefit, so this contrast is confusing| Nothing really confused them, but they suggested adding real life examples of certain companies that benefit or did not benefit from AI|             |
+|How likely are you to share this page with your peers or family?| They think it would be great to share with those who don't know much about AI such as my family and some friends.| The are likely to share this page with their co-workers since AI is a growing topic within the biomedical field as well. |             |
+|Did you identify a call to action?|They did identify a call to action and like how it recommends to educate not only yourself but others | The did identify a call to action and appreciate how there are links to further information to further inform yourself|             |
+|How did this page make you feel?|  It made them feel compelled to learn more.| It made them more alert to the risks of AI.|             |
+|Is there anything that confused you when it came to the data visualizations?| When it comes to the work effiency stacked bar charts, re-organizing the bars so that decrease and increase are next to each other would reduce confusion when navigating the information. Moreover, they believe having separate colors for the pie charts regarding the Manufacturing industry will make it more clear for viewers| For the pie charts, they believe having only one color key, thus the same three colors for the pie charts will be better for clarity and simplicity|             |
+|How long did it take you to digest all the information?| They digested the information pretty rapidly, understanding the context as they scrolled down and read more.| They believe it took about 5-10 minutes to fully digest all the information|             |
+|What were some difficulties or annoyances you had with the navigation or format of the page? |  There were no difficulties with the navigation of the page other than the aforementioned stacked bar chart| There were no troubles. The interviewee thought the navigation was very smooth|             |
 
 
 # Identified changes for Part III
