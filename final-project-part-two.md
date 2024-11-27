@@ -85,11 +85,15 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Findings or observations from interviews |  For my resolution, instead of only having the buttons which links to external articles, I could add photos of these actions to make it more engaging then have the links below that so it appears more optional. |
+|                                          | I will highlight or bold the values that are the highest in my data visualizations to draw attention to my main point, especially if I have multiple visualizations next to each other.                                                                                |
+|                                          | I will add more brighter colors to lighten up the theme and garner more attention: make it more eye-catching.  |
+|                                          | I will test having seperate colors for the Barriers pie charts, having three colors for the Finance & Insurance Industry and three different colors for the Manufacturing Industry. |
+|                                          |I will rearrange the bars within the stacked bar chart for work effiency so that viewers can immediately notice the disparities.| 
+|                                          |Try to format the Tableau embedded visuals better so that all if not most of the visuals is visible at once.| 
+|                                          |Include one real life example of a company that benefited from AI implementation but lost more employees than usual.| 
+|                                          |I've already rewrote the text concerning the demographic data to better align with the bar chart, but I could make sure there is no inconsistencies with the other text.| 
+
 
 > ...include any final thoughts you have here. 
 
