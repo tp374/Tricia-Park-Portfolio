@@ -85,14 +85,14 @@ Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews |  For my resolution, instead of only having the buttons which links to external articles, I could add photos of these actions to make it more engaging then have the links below that so it appears more optional. |
-|                                          | I will highlight or bold the values that are the highest in my data visualizations to draw attention to my main point, especially if I have multiple visualizations next to each other.                                                                                |
-|                                          | I will add more brighter colors to lighten up the theme and garner more attention: make it more eye-catching.  |
-|                                          | I will test having seperate colors for the Barriers pie charts, having three colors for the Finance & Insurance Industry and three different colors for the Manufacturing Industry. |
-|                                          |I will rearrange the bars within the stacked bar chart for work effiency so that viewers can immediately notice the disparities.| 
-|                                          |Try to format the Tableau embedded visuals better so that all if not most of the visuals is visible at once.| 
-|                                          |Include one real life example of a company that benefited from AI implementation but lost more employees than usual.| 
-|                                          |I've already rewrote the text concerning the demographic data to better align with the bar chart, but I could make sure there is no inconsistencies with the other text.| 
+|The call to action could be more explicit and engaging.|  For my resolution, instead of only having the buttons which links to external articles, I could add photos of these actions to make it more engaging then have the links below that so it appears more optional. |
+|The focus of each section and its corresponding data visualizations can be higlighted more.                                          | I will highlight or bold the values that are the highest in my data visualizations to draw attention to my main point, especially if I have multiple visualizations next to each other.                                                                                |
+| A lot of the page and its visuals is pretty dark.  | I will add more brighter colors to lighten up the theme and garner more attention: make it more eye-catching.  |
+| It seems to be hard to differentiate the data for the Manufacturing Industry vs the Finance & Insurance Industry    | I will test having seperate colors for the Barriers pie charts, having three colors for the Finance & Insurance Industry and three different colors for the Manufacturing Industry. |
+| The data for the visualizations could be rearranged or changed for better clarity and navigation |I will rearrange the bars within the stacked bar chart for work effiency so that viewers can immediately notice the disparities.| 
+| Some parts of the Tableau visuals are sometimes hidden from view. |Try to format the Tableau embedded visuals better so that all if not most of the visuals is visible at once.| 
+| Having real life examples could make the message more impactful. |Include one real life example of a company that benefited from AI implementation but lost more employees than usual.| 
+| The text explanations could be more simplified and clear.  |I've already rewrote the text concerning the demographic data to better align with the bar chart, but I could make sure there is no inconsistencies with the other text.| 
 
 
 > ...include any final thoughts you have here. 
