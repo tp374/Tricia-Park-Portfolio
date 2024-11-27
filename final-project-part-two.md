@@ -34,7 +34,7 @@ Resolution: highlighting the limitations of AI and spreading more awareness on t
 
 # User research 
 
-Shorthand Link: [link](https://tp374.github.io/Tricia-Park-Portfolio/) 
+Shorthand Link: [link]() 
 
 ## Target audience
 
@@ -42,7 +42,6 @@ Due to the rapid development and proliferation of AI technology in many sectors,
 Seeing as how AI is a global phenomenon and the studies used bring in data from multiple countries, I've identified my target audience to be english speakers from the ages of 18 to 64. At the age of 18, individuals enter college and having to decide what career path to take which is impacted by the advancement of AI while the retirement age worldwide is 64. Whether one is working an entry level position or the head of a company, learning about the effects of AI on the workplace and morale is crucial. Therefore, I will be targeting a wide range of people. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
 
 
 
@@ -79,9 +78,7 @@ Seeing as how AI is a global phenomenon and the studies used bring in data from 
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
