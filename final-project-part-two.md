@@ -34,7 +34,7 @@ Resolution: highlighting the limitations of AI and spreading more awareness on t
 
 # User research 
 
-Shorthand Link: 
+Shorthand Link: [link](https://tp374.github.io/Tricia-Park-Portfolio/) 
 
 ## Target audience
 
