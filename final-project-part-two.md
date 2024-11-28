@@ -34,7 +34,7 @@ Resolution: highlighting the limitations of AI and spreading more awareness on t
 
 # User research 
 
-Shorthand Link: [link](https://carnegiemellon.shorthandstories.com/our-sentiments-vs-the-reality-of-artificial-intelligences-impact-how-worried-should-we-be/index.html) 
+Shorthand Link: [https://carnegiemellon.shorthandstories.com/our-sentiments-vs-the-reality-of-artificial-intelligences-impact-how-worried-should-we-be/index.html](https://carnegiemellon.shorthandstories.com/our-sentiments-vs-the-reality-of-artificial-intelligences-impact-how-worried-should-we-be/index.html) 
 
 ## Target audience
 
