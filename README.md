@@ -1,4 +1,4 @@
-| [Assignment 3&4](Assignment-3&4.md) | [Final-Project-Part-1](Final-Project-Part-1) | [final-project-part-two](final-project-part-two.md)|
+| [Assignment 3&4](Assignment-3&4.md) | [Final-Project-Part-1](Final-Project-Part-1) | [final-project-part-two](final-project-part-two.md)| [Visualizing Government Debt](Visualizing Government Debt) |
 
 
 ### **Portfolio**
