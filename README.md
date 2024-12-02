@@ -1,8 +1,8 @@
 | [Assignment 3&4](Assignment-3&4.md) | [Visualizing Government Debt](Visualizing-Government-Debt.md) | [Final Project](Final-Project-Part-1)|
 
 
-### **Portfolio**
-This is my public portfolio for Telling Stories with Data at CMU!  
+
+#### **This is my public portfolio for Telling Stories with Data at CMU!**
 
 ### **About me**
 My name is Tricia Park, and I use she/her pronouns. I am a current graduate student and have a background in fine arts. After graduating from Cornell University for undergrad, I am currently completing Carnegie Mellon University's Master of Arts Management program. My interests lie in fundraising, and I aim to work in a development position at a nonprofit arts organization, preferably a museum.
