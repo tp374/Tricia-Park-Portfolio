@@ -15,10 +15,8 @@ Link to Shorthand: [https://carnegiemellon.shorthandstories.com/our-sentiments-v
 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-In Part Three, I've taken the feedback from Part Two and decided to change my target audience, thus slightly altering the presentation . Narrowing down my target audience to organizations interested in adopting AI tools, I ultimately changed my focus from the employees to employers. While there is little employees can do to in the face of AI's tremendous growth, employers can be more cautious and pro-active in their efforts to mitigate the dangers of AI implementation through research and consutling their workers. Since I had changed the The title of my presentation from "Our Sentiments vs Reality of AI’s Impact: How Worried Should We Be?" to "Should You Implement AI in Your Workplace?" I also changed the call to Action 
-
+In Part Three, I've taken the feedback from Part Two and decided to change my target audience, thus slightly altering the presentation topic. Narrowing down my target audience to organizations interested in adopting AI tools, I ultimately changed my focus from the employees to employers. While there is little employees can do to in the face of AI's tremendous growth, employers can be more cautious and pro-active in their efforts to mitigate the dangers of AI implementation. Ultimately, I had to change the The title of my presentation from "Our Sentiments vs Reality of AI’s Impact: How Worried Should We Be?" to "Should You Implement AI in Your Workplace?" The call to action was also altered, prompting employers to conduct further research on AI trends in their industry and consulting their own workers when deciding on AI adoption.
 
 
 ## Changes made since Part II
