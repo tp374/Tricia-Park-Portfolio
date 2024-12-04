@@ -1,4 +1,4 @@
- | [final project I](final-project-part-one.md)| [Final Project Part 2](final-project-part-two) |
+|[Final Project Part 1](Final-Project-Part-1.md) | [Final Project Part 2](final-project-part-two) |
 
 # The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
