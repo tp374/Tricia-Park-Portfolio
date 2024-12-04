@@ -1,11 +1,16 @@
 |[Final Project Part 1](Final-Project-Part-1.md) | [Final Project Part 2](final-project-part-two) |
 
+# Final Writeup
+
+
+
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+Link to Shorthand: [https://carnegiemellon.shorthandstories.com/our-sentiments-vs-the-reality-of-artificial-intelligences-impact-how-worried-should-we-be/index.html](https://carnegiemellon.shorthandstories.com/our-sentiments-vs-the-reality-of-artificial-intelligences-impact-how-worried-should-we-be/index.html) 
+
 
 Text here!
 
-# Changes made since Part II
+## Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
 Text here!
