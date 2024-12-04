@@ -1,4 +1,4 @@
-| [Final Project Part 2](final-project-part-two) |
+| [Final Project Part 2](final-project-part-two) | [final Project Part 3](final-project-part-three.md) | 
 
 ## **Final Project Part 1**
 
