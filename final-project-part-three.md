@@ -10,9 +10,7 @@ In Part Two, I fleshed out my outline further to include specifics on what text 
 
 
 # The final data story
-Link to Shorthand: [https://carnegiemellon.shorthandstories.com/our-sentiments-vs-the-reality-of-artificial-intelligences-impact-how-worried-should-we-be/index.html](https://carnegiemellon.shorthandstories.com/our-sentiments-vs-the-reality-of-artificial-intelligences-impact-how-worried-should-we-be/index.html) 
-
-https://carnegiemellon.shorthandstories.com/our-sentiments-vs-the-reality-of-artificial-intelligences-impact-how-worried-should-we-be/index.html
+Link to Shorthand: [https://carnegiemellon.shorthandstories.com/our-sentiments-vs-the-reality-of-artificial-intelligences-impact-how-worried-should-we-be/index.html](https://carnegiemellon.shorthandstories.com/our-sentiments-vs-the-reality-of-artificial-intelligences-impact-how-worried-should-we-be/index.html)
 
 ## The audience
 
